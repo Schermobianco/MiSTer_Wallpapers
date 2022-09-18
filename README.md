@@ -1,2 +1,2 @@
-# MiSTer_Wallpapers_ByWS
+# MiSTer_Wallpapers
 A collections of MiSTer FPGA wallpapers image
