@@ -1,2 +1,2 @@
 # MiSTer_Wallpapers
-A collections of MiSTer FPGA wallpapers image
+A collections of MiSTer FPGA wallpapers images
