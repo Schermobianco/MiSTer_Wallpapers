@@ -1,3 +1,9 @@
+![GitHub](https://img.shields.io/github/license/Schermobianco/MiSTer_Wallpapers?style=flat-square)
+[![MiSTer FPGA](https://img.shields.io/badge/MiSTer-FPGA-blue?logo=applearcade&logoColor=FFFFFF&style=flat-square)](https://misterfpga.org/)
+![GitHub last commit](https://img.shields.io/github/last-commit/Schermobianco/MiSTer_Wallpapers?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Schermobianco/MiSTer_Wallpapers?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/Schermobianco/MiSTer_Wallpapers/total?style=flat-square)
+
 # MiSTer_Wallpapers
 A collection of **MiSTer FPGA** wallpapers images
 
