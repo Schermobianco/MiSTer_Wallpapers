@@ -19,5 +19,5 @@ jobs:
         destination_branch: 'main'
         destination_folder: 'wallpapers'
         user_email: 'whitescreen.vj@gmail.com'
-        user_name: 'Schermobianco'
+        user_name: 'schermobianco'
         commit_msg: '[GHA] Update wallpapers.'
