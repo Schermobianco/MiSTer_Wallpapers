@@ -16,8 +16,8 @@ ___
 A collection of **MiSTer FPGA** wallpapers images
 
 ## Resolutions:
-- **[1280x1024](/1280x1024/)** (AR 5:4)
-- **[1280x1024 CRT fx](/1280x1024CRTfx/)** (AR 5:4)
+- **[1280x1024](/wallpapers/1280x1024_WS/)** (AR 5:4)
+- **[1280x1024 CRT fx](/wallpapers/1280x1024_CRTfx_WS/)** (AR 5:4)
 
 ## License
 ``MiSTer_Wallpapers`` is distributed under the MIT License - see the [LICENSE](LICENSE) file for details.
