@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/Schermobianco/MiSTer_Wallpapers?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Schermobianco/MiSTer_Wallpapers?style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Schermobianco/MiSTer_Wallpapers?style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads/Schermobianco/MiSTer_Wallpapers/total?style=flat-square)\
+![GitHub all releases](https://img.shields.io/github/downloads/Schermobianco/MiSTer_Wallpapers/total?style=flat-square)
 
 ___
 ```
