@@ -18,6 +18,6 @@ jobs:
         destination_repo: 'Schermobianco/MiSTer_Wallpapers_DB'
         destination_branch: 'main'
         destination_folder: 'wallpapers'
-        user_email: 'devin.nemec@gmail.com'
-        user_name: 'dmnemec'
+        user_email: 'whitescreen.vj@gmail.com'
+        user_name: 'schermobianco'
         commit_msg: '[GHA] Update wallpapers.'
