@@ -16,6 +16,7 @@ jobs:
       with:
         source_folder: 'wallpapers'
         destination_repo: 'Schermobianco/MiSTer_Wallpapers_DB'
+        destination_branch: 'main'
         destination_folder: 'wallpapers'
         user_email: 'whitescreen.vj@gmail.com'
         user_name: 'Schermobianco'
