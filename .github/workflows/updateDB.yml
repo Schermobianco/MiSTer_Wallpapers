@@ -1,0 +1,23 @@
+name: Push to DB
+
+on: push
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes wallpapers folder
+      uses: datalbry/copy_folder_to_another_repo_action@1.0.0
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_folder: 'wallpapers'
+        destination_repo: 'Schermobianco/MiSTer_Wallpapers_DB'
+        destination_branch: 'main'
+        destination_folder: 'wallpapers'
+        user_email: 'whitescreen.vj@gmail.com'
+        user_name: 'Schermobianco'
+        commit_msg: '[GHA] Update wallpapers.'
